@@ -1,0 +1,14 @@
+Beginning Django E-Commerce
+398 páginas
+Jim McGaw
+2009
+Recursos utilizados
+• Django 1.1 (5.0.2 instalada para o projeto)
+• Python 2.5 (tenho instalado a 3.12.2)
+• MySQL 5.1
+• Eclipse 3.4.1 (with the PyDev extensions) (tentarei usar o vscode)
+• Apache 2.2
+• NginX
+• mod_wsgi
+• Ubuntu (utilizarei windows)
+• Firefox
